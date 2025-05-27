@@ -4,7 +4,7 @@ A React.js application that displays real-time weather data and forecasts using 
 
 ## Features  
 - Current weather conditions (temperature, humidity, wind speed)  
-- 5-day forecast  
+- 7-day forecast  
 - City search with local storage memory  
 - Celsius/Fahrenheit toggle  
 - Auto-refresh every 30 seconds  
