@@ -13,3 +13,14 @@ A React.js application that displays real-time weather data and forecasts using 
 1. Clone the repo:  
    ```bash
    git clone https://github.com/yourusername/weather-dashboard.git
+2.Install dependencies:
+
+bash
+npm install
+3.Get an API key from OpenWeatherMap
+
+4.run the app : npm start
+5.Tech Stack
+React.js
+CSS Modules
+OpenWeatherMap API
