@@ -19,7 +19,7 @@ A React.js application that displays real-time weather data and forecasts using 
 
 4.run the app : npm start
 
-5.Tech Stack
+5.Tech Stack : 
  React.js
  Context Api
  CSS Modules
